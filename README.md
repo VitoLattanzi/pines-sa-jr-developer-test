@@ -1,29 +1,32 @@
-Pines SA - Junior Developer Technical Test
+# Pines SA - Junior Developer Technical Test
 
-  Este repositorio contendrá la resolución del examen técnico solicitado por Pines SA para el puesto de Desarrollador Junior.
+Este repositorio contiene la resolución del examen técnico solicitado por Pines SA para el puesto de Desarrollador Junior.
 
-📌 Estado
+## 📌 Estado
 
-  En desarrollo.
+Completado.
 
-🛠️ Tecnologías utilizadas
+## 📂 Contenido
 
-  A definir según los requerimientos del examen.
+* Ejercicio 1: Análisis de función y mejora propuesta
+* Ejercicio 2: Generación de matriz 6x6 con letras aleatorias y conteo de repeticiones
+* Ejercicio 3: Resolución de preguntas teóricas sobre matrices
+* SQL: Consultas sobre clientes y movimientos de cuenta
 
-📂 Estructura del proyecto
+## 🛠️ Tecnologías utilizadas
 
-  El repositorio se organizará por ejercicios, cada uno en su respectiva carpeta o archivo, incluyendo su implementación y explicaciones cuando sea necesario.
+* JavaScript
+* SQL
+* Git & GitHub
 
-🚀 Cómo ejecutar el proyecto
+## 🚀 Cómo ejecutar el ejercicio 2
 
-  Se detallará una vez implementados los ejercicios.
+```bash
+node ejercicios/ejercicio2.js
+```
 
-💡 Notas
+## 👨‍💻 Autor
 
-  Este repositorio será actualizado progresivamente a medida que se desarrollen las soluciones.
-
-👨‍💻 Autor
-
-  Vito Lattanzi
-  Buenos Aires, Argentina
-  LinkedIn: https://www.linkedin.com/in/vito-lattanzi
+Vito Franco Lattanzi
+Buenos Aires, Argentina
+LinkedIn: https://www.linkedin.com/in/vito-lattanzi
