@@ -1,0 +1,9 @@
+Resultados:
+
+getElement(Lista, 10) → undefined 
+getElement(Lista, 0) → 1  
+getElement(Lista, 0) + getElement(Lista, 3) → 5  
+
+Mejora:
+- Se puede validar que el índice esté dentro del rango del 
+arreglo para evitar acceder a posiciones inexistentes.

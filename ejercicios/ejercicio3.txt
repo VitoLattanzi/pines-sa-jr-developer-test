@@ -1,0 +1,4 @@
+    1. Se están intercambiando filas por columnas.
+    2. Se producirá un error de índice fuera de rango.
+    3. La variable suma se sobrescribe en cada iteración en lugar de acumularse.
+    4. El código provocará un error de acceso fuera de límites.
